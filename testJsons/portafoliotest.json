@@ -1,0 +1,33 @@
+[{
+    "Propietario": "Propietario1",
+    "Centrales": [{
+        "central" :"central1",
+        "region" : "RM",
+        "comuna": "Las Condes"
+    },
+    {
+        "central" :"central2",
+        "region" : "RM",
+        "comuna": "La Reina"
+    }],
+    },{
+    "Propietario": "Propietario2",
+    "Centrales": [{
+        "central" :"central3",
+        "region" : "RM",
+        "comuna": "Penalolen"
+    },
+    {
+        "central" :"central4",
+        "region" : "RM",
+        "comuna": "Vitacura"
+    }],
+    },
+    {
+    "Propietario": "Propietario3",
+    "Centrales": [{
+        "central" :"central5",
+        "region" : "RM",
+        "comuna": "Puente Alto"
+    },],
+    }]
